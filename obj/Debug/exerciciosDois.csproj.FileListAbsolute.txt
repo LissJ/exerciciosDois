@@ -1,0 +1,7 @@
+C:\Users\51313002828\Documents\exerciciosDois\exerciciosDois\obj\Debug\exerciciosDois.csproj.AssemblyReference.cache
+C:\Users\51313002828\Documents\exerciciosDois\exerciciosDois\obj\Debug\exerciciosDois.csproj.CoreCompileInputs.cache
+C:\Users\51313002828\Documents\exerciciosDois\exerciciosDois\bin\Debug\exerciciosDois.exe.config
+C:\Users\51313002828\Documents\exerciciosDois\exerciciosDois\bin\Debug\exerciciosDois.exe
+C:\Users\51313002828\Documents\exerciciosDois\exerciciosDois\bin\Debug\exerciciosDois.pdb
+C:\Users\51313002828\Documents\exerciciosDois\exerciciosDois\obj\Debug\exerciciosDois.exe
+C:\Users\51313002828\Documents\exerciciosDois\exerciciosDois\obj\Debug\exerciciosDois.pdb
